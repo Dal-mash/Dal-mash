@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dal-mash
 
-I am currently a university freshman. I'm an IT student and I started coding not too long ago.
+I'm an IT student and I started coding not too long ago.
 Programming is currently the only thing im kind of interested in so i hope to get better at it soon.
 
 <!---
